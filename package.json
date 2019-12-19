@@ -1,0 +1,22 @@
+{
+  "name": "blockkaihatsu",
+  "version": "1.0.0",
+  "description": "リードミーっす",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyukikunou/blockkaihatsu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyukikunou/blockkaihatsu/issues"
+  },
+  "homepage": "https://github.com/miyukikunou/blockkaihatsu#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "6.0.0"
+  }
+}
